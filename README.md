@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe (JavaScript)
+# 🎮 Tic Tac Toe (Web)
 
 A lightweight and interactive **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.  
 Play the classic 3x3 board game with a friend — simple UI, instant win/draw detection, and responsive design.
@@ -9,20 +9,20 @@ Play the classic 3x3 board game with a friend — simple UI, instant win/draw de
 - 🟦 Responsive 3x3 board
 - ❌ Player X vs 🟡 Player O
 - 🏆 Auto win/draw detection
-- 🔄 Reset button for new rounds
+- 🔄 Reset & New Game options
 - 📱 Works on desktop & mobile
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure  
-- **CSS3** – Styling  
-- **JavaScript (ES6)** – Game logic  
+- **HTML5** – Game layout & structure  
+- **CSS3** – Styling & responsive design  
+- **JavaScript (ES6)** – Game logic & interactivity  
 
 ---
 
 ## 📂 Folder Structure
-Tic-Tac-Toe--JS/
+Tic-Tac-Toe-Web/
 │── index.html      # Game layout
 │── style.css       # Styling
 │── app.js          # Game logic
@@ -31,21 +31,25 @@ Tic-Tac-Toe--JS/
 
 
 ---
-Code
-
----
 
 ## ▶️ Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tiwariprachi3007/Tic-Tac-Toe--JS.git
-Navigate to the project folder:
+   git clone https://github.com/tiwariprachi3007/Tic-Tac-Toe-JS.git
 
-bash
-cd Tic-Tac-Toe--JS
+   cd Tic-Tac-Toe-JS
 Open index.html in your browser.
 
 Start playing 🎉
+
+📌 Future Enhancements
+🤖 AI opponent (Minimax algorithm)
+
+📊 Scoreboard across rounds
+
+🔊 Sound effects & animations
+
+🌐 Online multiplayer mode
 
 📜 License
 This project is licensed under the MIT License.
