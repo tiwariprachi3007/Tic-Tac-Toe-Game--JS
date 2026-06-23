@@ -36,11 +36,11 @@ Tic-Tac-Toe-Web/
 1. Clone the repository:
    ```bash
    git clone https://github.com/tiwariprachi3007/Tic-Tac-Toe-JS.git
-
+   
+2. Navigate to the project folder:
    cd Tic-Tac-Toe-JS
-Open index.html in your browser.
-
-Start playing 🎉
+3.Open index.html in your browser.
+4.Start playing 🎉
 
 📌 Future Enhancements
 🤖 AI opponent (Minimax algorithm)
